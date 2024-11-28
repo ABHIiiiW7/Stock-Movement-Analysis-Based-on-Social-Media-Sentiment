@@ -29,13 +29,13 @@ This project predicts stock movements using sentiment analysis of social media d
    ```bash
    pip install -r requirements.txt
    ```
-2. Open the notebook `Enhanced_Stock_Analysis.ipynb` in Jupyter Notebook or Jupyter Lab.
+2. Open the notebook `Stock_Analysis.ipynb` in Jupyter Notebook or Jupyter Lab.
 3. Follow the steps in the notebook to execute the analysis.
 
 ---
 
 ## Folder Structure
-- `Enhanced_Stock_Analysis.ipynb`: Main Jupyter Notebook.
+- `Stock_Analysis.ipynb`: Main Jupyter Notebook.
 - `requirements.txt`: Python dependencies.
 - `README.md`: Project overview.
 - `report.pdf`: Detailed explanation of the approach.
